@@ -4,7 +4,7 @@ import cors from 'cors';
 
 const app = express();
 
-app.user(cors());
+app.use(cors());
 
 app.get('/characters', (req, res) => {
   res.json(characters);
