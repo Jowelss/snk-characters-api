@@ -5,31 +5,58 @@
       "id": "1",
       "name": "Levi Ackeramann",
       "status": "Alive",
-      "description": "",
-      "ability": "",
-      "image": "",
+      "description": "Levi Ackermann recognized as the best soldier of humanity. He is a captain of the Special Operations Division of the Exploration Corps, noted for his great skill in combat, especially with the three-dimensional maneuvering equipment, which makes him extremely effective against the titans. Levi grew up in the impoverished Undercity under the tutelage of his uncle Kenny Ackermann, which forged his cold, serious and pragmatic character. His aloof personality reflects the harsh circumstances of his childhood and the constant need to protect his peers in a dangerous world. One of his most curious characteristics is his obsession with cleanliness, which stems from having lived in unsanitary conditions, leading him to value order and control in his environment. In addition, as a member of the Ackermann lineage, Levi possesses superhuman abilities, which, together with his experience and determination, has made him a legend and the most formidable soldier in the Exploration Corps. Translated with DeepL.com (free version)",
+      "ability": "Levi Ackermann has superhuman abilities due to his lineage, giving him exceptional strength, speed and reflexes. He is a master of three-dimensional maneuvering equipment and his tactical skills make him the most lethal soldier against the titans.",
+      "image": "https://res.cloudinary.com/drazdkofq/image/upload/v1728504812/-_levi_ackerman_-_krltxe.jpg",
       "video": ""
     },
     {
       "id": "2",
       "name": "Mikasa Ackeramann",
       "status": "Alive",
-      "description": "",
-      "ability": "",
-      "image": "",
+      "description": "Mikasa Ackermann is an exceptional Scout Corps soldier. She is known for her incredible combat skills, speed and strength, making her one of the best fighters. Mikasa is very protective of Eren Jaeger, her childhood friend, as he saved her as a child after her parents were killed.",
+      "ability": "She has superhuman abilities due to her lineage, which gives her exceptional strength, speed and reflexes. She is a combat expert and one of the best fighters in the Exploration Corps.",
+      "image": "https://res.cloudinary.com/drazdkofq/image/upload/v1728504810/character3_oe8dim.jpg",
       "video": ""
     },
     {
       "id": "3",
-      "name": "Eren Yeager",
+      "name": "Hange Zoë",
       "status": "Dead",
-      "description": "",
-      "ability": "",
-      "image": "",
+      "description": "Hange Zoë is the leader of the exploration squad, known for her intelligence, scientific curiosity and passion for researching the titans. She is an eccentric and enthusiastic character, fascinated by understanding the workings of the titans and finding ways to fight them more efficiently. Hange plays a crucial role in developing technologies and strategies for the Exploration Corps. Although initially somewhat impulsive, Hange also proves to be a capable and compassionate leader when she assumes the position of commander. In addition to her intelligence and tactical skills, she is skilled in combat and has a deep sense of responsibility to her team and humanity.",
+      "ability": "Her abilities stand out for her great intelligence and analytical skills. She is an expert in research and strategy, especially in the study of titans. Her scientific curiosity leads her to develop innovative technologies and methods to fight them. Although her physical strength is not her main attribute, Hange is also skilled in combat and proves to be a capable leader, balancing her scientific passion with a strong sense of responsibility towards her team.",
+      "image": "https://res.cloudinary.com/drazdkofq/image/upload/v1728504807/-_hange_mggnuk.jpg",
       "video": ""
     },
     {
       "id": "4",
+      "name": "Erwin Smith",
+      "status": "Dead",
+      "description": "Erwin Smith is the commander of the Exploration Corps and is known for his exceptional leadership, strategic intelligence and unwavering determination. Erwin is a charismatic leader who inspires loyalty among his subordinates, leading his team on nearly impossible missions against the titans. His main goal is to uncover the truth about the world, even if it means risking everything, including his life and the lives of his teammates. Although he has a calm and calculating personality, Erwin is willing to make tough decisions and sacrifice everything for the greater good. His long-term vision and ability to maintain his composure in critical situations make him one of the most admired leaders in the series.",
+      "ability": "His skills are centered on his extraordinary leadership and strategic ability. He is a master at planning and executing complex operations, able to anticipate enemy movements and make decisions under pressure. His charisma enables him to win the loyalty of his soldiers, even in the most desperate situations.",
+      "image": "https://res.cloudinary.com/drazdkofq/image/upload/v1728504806/character2_rbhkdz.jpg",
+      "video": ""
+    },
+    {
+      "id": "5",
+      "name": "Eren Yeager",
+      "status": "Dead",
+      "description": "Eren Yeager is the protagonist, a central character in humanity's struggle against the titans. From a young age, Eren showed a strong desire for freedom and a deep anger towards the titans, especially after the destruction of his home and the death of his mother at the hands of one of them. His determination drives him to join the Exploration Corps to fight the titans and discover the truth behind their existence. Over the course of the series, Eren evolves from an impulsive and angry young man into a more complex and strategic leader. His transformation into a Titan Power Bearer, and later the Titan Founder, grants him extraordinary abilities that change the course of history. However, his quest for freedom leads him to controversial decisions and internal conflict over the methods he employs to achieve his goals.",
+      "ability": "Eren Yeager possesses several abilities. He can transform into a titan, which gives him superhuman strength, speed, endurance and the ability to regenerate quickly. As an Attack Titan, he can perform devastating attacks and protect his allies. In addition, by accessing the Founder Titan's power, he can control other titans, manipulate their memories and influence their behavior.",
+      "image": "https://res.cloudinary.com/drazdkofq/image/upload/v1728506595/eren_ejcsbi.jpg",
+      "video": ""
+    },
+    {
+      "id": "6",
+      "name": "Armin Arlert",
+      "status": "Alive",
+      "description": "Armin Arlet is known for his intelligence and strategic skills. From an early age, he displayed an analytical mind and a great talent for formulating plans, allowing him to contribute significantly to the Exploration Corps. Although initially less physical than other characters, his wit and ability to think critically make him a valuable leader. Throughout the series, Armin undergoes significant development, facing his fears and becoming more courageous. He also becomes the bearer of the Colossal Titan's power, which grants him superhuman abilities that complement his intelligence. His loyalty to his friends, especially Eren and Mikasa, is a defining trait of his character.",
+      "ability": "He is known for his exceptional intelligence and strategic skills, allowing him to formulate complex plans in critical situations. His ability to lead and motivate others also stands out in times of crisis.",
+      "image": "https://res.cloudinary.com/drazdkofq/image/upload/v1728504805/character1_ewctnw.jpg",
+      "video": ""
+    },
+    {
+      "id": "7",
       "name": "Ymir Fritz",
       "status": "Dead",
       "description": "",
@@ -38,7 +65,7 @@
       "video": ""
     },
     {
-      "id": "5",
+      "id": "8",
       "name": "Grisha Yeager",
       "status": "Dead",
       "description": "",
@@ -47,16 +74,7 @@
       "video": ""
     },
     {
-      "id": "6",
-      "name": "Eren Kruger",
-      "status": "Dead",
-      "description": "",
-      "ability": "",
-      "image": "",
-      "video": ""
-    },
-    {
-      "id": "7",
+      "id": "9",
       "name": "Bertholdt Hoover",
       "status": "Dead",
       "description": "",
@@ -65,16 +83,7 @@
       "video": ""
     },
     {
-      "id": "8",
-      "name": "Armin Arlert",
-      "status": "Alive",
-      "description": "",
-      "ability": "",
-      "image": "",
-      "video": ""
-    },
-    {
-      "id": "9",
+      "id": "10",
       "name": "Reiner Braun",
       "status": "Alive",
       "description": "",
@@ -83,7 +92,7 @@
       "video": ""
     },
     {
-      "id": "10",
+      "id": "11",
       "name": "Annie Leonhart",
       "status": "Alive",
       "description": "",
@@ -92,17 +101,8 @@
       "video": ""
     },
     {
-      "id": "11",
-      "name": "Zeke Yeager",
-      "status": "Dead",
-      "description": "",
-      "ability": "",
-      "image": "",
-      "video": ""
-    },
-    {
       "id": "12",
-      "name": "Ymir (Eldiana of the walls)",
+      "name": "Zeke Yeager",
       "status": "Dead",
       "description": "",
       "ability": "",
@@ -156,15 +156,6 @@
     },
     {
       "id": "18",
-      "name": "Marco Bodt",
-      "status": "Dead",
-      "description": "",
-      "ability": "",
-      "image": "",
-      "video": ""
-    },
-    {
-      "id": "19",
       "name": "Sasha Braus",
       "status": "Dead",
       "description": "",
@@ -173,7 +164,7 @@
       "video": ""
     },
     {
-      "id": "20",
+      "id": "19",
       "name": "Connie Springer",
       "status": "Alive",
       "description": "",
@@ -182,25 +173,7 @@
       "video": ""
     },
     {
-      "id": "21",
-      "name": "Hange Zoë",
-      "status": "Dead",
-      "description": "",
-      "ability": "",
-      "image": "",
-      "video": ""
-    },
-    {
-      "id": "22",
-      "name": "Erwin Smith",
-      "status": "Dead",
-      "description": "",
-      "ability": "",
-      "image": "",
-      "video": ""
-    },
-    {
-      "id": "23",
+      "id": "20",
       "name": "Kenny Ackerman",
       "status": "Dead",
       "description": "",
@@ -209,7 +182,7 @@
       "video": ""
     },
     {
-      "id": "24",
+      "id": "21",
       "name": "Keith Shadis",
       "status": "Dead",
       "description": "",
@@ -218,7 +191,7 @@
       "video": ""
     },
     {
-      "id": "25",
+      "id": "22",
       "name": "Floch Forster",
       "status": "Dead",
       "description": "",
